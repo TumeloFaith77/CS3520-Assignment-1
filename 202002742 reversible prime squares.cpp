@@ -1,10 +1,3 @@
-/*
-   File Name:Reversible Prime Squares
-   Author:KOMETSI R.V
-   Student ID:202002742
-   Email address:relebohilek5@gmail.com
-   Program that prints reversible prime squares
-*/
 
 #include <stdio.h>
 #include <stdbool.h>
